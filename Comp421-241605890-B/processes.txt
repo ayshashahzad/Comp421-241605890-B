@@ -1,0 +1,67 @@
+
+Process List
+==============
+
+PID    Name                  Path
+--------------------------------------------------------
+4      System                C:\Windows\System32\system
+128    smss.exe              C:\Windows\System32\smss.exe
+324    csrss.exe             C:\Windows\System32\csrss.exe
+432    wininit.exe           C:\Windows\System32\wininit.exe
+536    services.exe          C:\Windows\System32\services.exe
+648    lsass.exe             C:\Windows\System32\lsass.exe
+756    svchost.exe           C:\Windows\System32\svchost.exe
+840    svchost.exe           C:\Windows\System32\svchost.exe
+976    winlogon.exe          C:\Windows\System32\winlogon.exe
+1084   explorer.exe          C:\Windows\Explorer.exe
+1256   taskhostw.exe         C:\Windows\System32\taskhostw.exe
+1420   msmpeng.exe           C:\Program Files\Windows Defender\MsMpEng.exe
+1588   svchost.exe           C:\Windows\System32\svchost.exe
+1736   wuauserv.exe          C:\Windows\System32\wuauserv.exe
+1864   conhost.exe           C:\Windows\System32\conhost.exe
+1980   cmd.exe               C:\Windows\System32\cmd.exe
+2056   notepad.exe           C:\Windows\System32\notepad.exe
+2204   chrome.exe            C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+2352   firefox.exe           C:\Program Files (x86)\Mozilla Firefox\firefox.exe
+2456   rundll32.exe          C:\Windows\System32\rundll32.exe
+2568   winword.exe           C:\Program Files (x86)\Microsoft Office\root\Office16\WINWORD.EXE
+2684   powershell.exe        C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe
+2840   outlook.exe           C:\Program Files (x86)\Microsoft Office\root\Office16\OUTLOOK.EXE
+2964   iexplore.exe          C:\Program Files (x86)\Internet Explorer\iexplore.exe
+3100   svchost.exe           C:\Windows\System32\svchost.exe
+3252   svchost.exe           C:\Windows\System32\svchost.exe
+3380   spoolsv.exe           C:\Windows\System32\spoolsv.exe
+3444   iexplore.exe          C:\Program Files (x86)\Internet Explorer\iexplore.exe
+3556   rdpclip.exe           C:\Windows\System32\rdpclip.exe
+3700   taskeng.exe           C:\Windows\System32\taskeng.exe
+3804   cmd.exe               C:\Windows\System32\cmd.exe
+3968   java.exe              C:\Program Files\Java\jre1.8.0_291\bin\java.exe
+4112   taskmgr.exe           C:\Windows\System32\taskmgr.exe
+4192   svchost.exe           C:\Windows\System32\svchost.exe
+4296   SearchIndexer.exe     C:\Windows\System32\SearchIndexer.exe
+4404   dwm.exe               C:\Windows\System32\dwm.exe
+4520   svchost.exe           C:\Windows\System32\svchost.exe
+4684   Acrobat.exe           C:\Program Files (x86)\Adobe\Acrobat Reader DC\Reader\AcroRd32.exe
+4768   MsMpEng.exe           C:\Program Files\Windows Defender\MsMpEng.exe
+4884   Skype.exe             C:\Program Files (x86)\Microsoft\Skype for Desktop\Skype.exe
+4992   svchost.exe           C:\Windows\System32\svchost.exe
+5100   cmd.exe               C:\Windows\System32\cmd.exe
+5216   svchost.exe           C:\Windows\System32\svchost.exe
+5340   GoogleCrashHandler.exe C:\Program Files (x86)\Google\CrashReports\GoogleCrashHandler.exe
+5428   WindowsSecurity.exe   C:\Windows\System32\WindowsSecurity.exe
+5512   processhacker.exe     C:\Program Files (x86)\Process Hacker\ProcessHacker.exe
+5636   MsMpEng.exe           C:\Program Files\Windows Defender\MsMpEng.exe
+5732   TeamViewer.exe        C:\Program Files (x86)\TeamViewer\TeamViewer.exe
+5868   sqlservr.exe          C:\Program Files\Microsoft SQL Server\MSSQL15.MSSQLSERVER\MSSQL\Binn\sqlservr.exe
+5984   steam.exe             C:\Program Files (x86)\Steam\steam.exe
+6092   AdobeUpdater.exe      C:\Program Files (x86)\Common Files\Adobe\Updater6\AdobeUpdater.exe
+6196   cmd.exe               C:\Windows\System32\cmd.exe
+6300   notepad++.exe         C:\Program Files\Notepad++\notepad++.exe
+6412   Python.exe            C:\Users\Administrator\AppData\Local\Programs\Python\Python39\python.exe
+6520   services.exe          C:\Windows\System32\services.exe
+6636   GoogleCrashHandler64.exe C:\Program Files\Google\CrashReports\GoogleCrashHandler64.exe
+6752   svchost.exe           C:\Windows\System32\svchost.exe
+6876   notepad.exe           C:\Windows\System32\notepad.exe
+6900   wmplayer.exe          C:\Program Files (x86)\Windows Media Player\wmplayer.exe
+7004   taskhost.exe          C:\Windows\System32\taskhost.exe
+7112   rundll32.exe          C:\Windows\System32\rundll32.exe
